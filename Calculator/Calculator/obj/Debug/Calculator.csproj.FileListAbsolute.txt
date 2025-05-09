@@ -1,0 +1,11 @@
+C:\Users\Lyrel Andrea Harina\source\repos\windowsform\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Lyrel Andrea Harina\source\repos\windowsform\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Lyrel Andrea Harina\source\repos\windowsform\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Lyrel Andrea Harina\source\repos\windowsform\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Lyrel Andrea Harina\source\repos\windowsform\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Lyrel Andrea Harina\source\repos\windowsform\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Lyrel Andrea Harina\source\repos\windowsform\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Lyrel Andrea Harina\source\repos\windowsform\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Lyrel Andrea Harina\source\repos\windowsform\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Lyrel Andrea Harina\source\repos\windowsform\Calculator\Calculator\obj\Debug\Calculator.Form2.resources
+C:\Users\Lyrel Andrea Harina\source\repos\windowsform\Calculator\Calculator\obj\Debug\Calculator.frmCalculator.resources
