@@ -4,6 +4,26 @@
 Lenard Andrei
 
 ## Instructions on Running the App
+```
+1. Open Visual Studio
+  - Launch Visual Studio from the Start Menu or desktop.
+
+2. Open the Existing Project
+  - Click File > Open > Project/Solution
+  - Navigate to your project folder
+  - Select the .sln file (e.g., CalculatorApp.sln)
+
+3. Set as Startup Project (if needed)
+  - In Solution Explorer, right-click on your project name
+  - Click Set as Startup Project
+
+4. Run the App
+  - Click the green Start button in the toolbar
+  - Or press F5 on your keyboard
+  - The calculator window will launch and be ready to use
+```
+
+
 
 ## Sample Output
 
