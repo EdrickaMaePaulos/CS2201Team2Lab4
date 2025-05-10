@@ -6,7 +6,7 @@ Lenard Andrei
 ## Instructions on Running the App
 ```
 1. Open Visual Studio
-- Launch Visual Studio from the Start Menu or desktop.
+  Launch Visual Studio from the Start Menu or desktop.
 
 2. Open the Existing Project
   Click File > Open > Project/Solution
@@ -18,8 +18,7 @@ Lenard Andrei
   Click Set as Startup Project
 
 4. Run the App
-  Click the green Start button in the toolbar
-  Or press F5 on your keyboard
+  Click the green Start button in the toolbar or press F5 on your keyboard
   The calculator window will launch and be ready to use
 ```
 
