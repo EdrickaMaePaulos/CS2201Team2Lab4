@@ -7,6 +7,17 @@ Lenard Andrei
 
 ## Sample Output
 
+![](https://github.com/user-attachments/assets/69ee1e1e-8b8a-48ce-a504-181d17090e2f)
+
+![image](https://github.com/user-attachments/assets/464dc0d5-38a7-4738-a08c-096052b8ac08)     ![image](https://github.com/user-attachments/assets/7259416c-61de-4018-9497-0c247a9f79b6)
+
+![image](https://github.com/user-attachments/assets/c3e7f3ef-d1c0-4399-8ec7-50e6a75c9973)     ![image](https://github.com/user-attachments/assets/8f2f12d4-6fc9-474b-a4a2-14c58d6bdb88)
+
+![image](https://github.com/user-attachments/assets/db9edf1e-2602-4512-a2cb-5f54a8a87767)     ![image](https://github.com/user-attachments/assets/e7ab556c-5a62-422d-bb85-d92446e799cb)
+
+
+
+
 ##  <a id = "contrib"> 👨‍💻 Contributors </a> <br>
 | Name | Role | E-mail | Other Contacts |
 | --- | --- | --- | --- |
