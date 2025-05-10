@@ -10,7 +10,7 @@
 2. Open the Existing Project
   Click File > Open > Project/Solution
   Navigate to your project folder
-  Select the .sln file (e.g., CalculatorApp.sln)
+  Select the .sln file 
 
 3. Set as Startup Project (if needed)
   In Solution Explorer, right-click on your project name
